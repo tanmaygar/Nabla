@@ -164,6 +164,14 @@ Go inside the Semantic folder and run these commands to test semantic analysis
 make 
 make test
 ```
+## Team Members
+- [Tanmay Garg](https://github.com/tanmaygar)
+- [Kartik Srinivas](https://github.com/kartiksrinivas007)
+- [Aayush Patel](https://github.com/Aayush2492)
+- [Gautham Bellamkonda](https://github.com/GauthamBellamkonda)
+- [Ganesh Bombatkar](https://github.com/Ganesh-RB)
+- [Ketan Sabne](https://github.com/ketan3007)
+- [Ojjas Tyagi](https://github.com/tyagio)
 
 ## Acknowledgements
 
